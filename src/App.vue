@@ -29,4 +29,9 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+/* Hier is style voor about pagina */
+.about{
+    background-color: #d3b4f5;
+}
 </style>
